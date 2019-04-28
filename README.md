@@ -12,7 +12,8 @@ the URL /stats.json, ie. http://localhost:7879/stats.json when `-l` is set to 78
 
 # Dependency
 libevent-dev<br>
-sudo apt-get install libevent-dev<br>added depen
+sudo apt-get install libevent-dev<br>
+
 # Compile details
 make<br>
 sudo cp ./rtlmux  /usr/local/bin/<br>
