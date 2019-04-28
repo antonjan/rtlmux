@@ -10,6 +10,12 @@ and allows all clients to send commands for configuration to the rtl_tcp server.
 It provides status output of the server and clients on the client port + 1, at
 the URL /stats.json, ie. http://localhost:7879/stats.json when `-l` is set to 7878.
 
+# Dependency
+libevent-dev<br>
+sudo apt-get install libevent-dev<br>added depen
+# Compile details
+make<br>
+sudo cp ./rtlmux  /usr/local/bin/<br>
 Usage
 =====
 
