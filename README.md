@@ -15,8 +15,10 @@ libevent-dev<br>
 sudo apt-get install libevent-dev<br>
 
 # Compile details
+
 make<br>
 sudo cp ./rtlmux  /usr/local/bin/<br>
+
 Usage
 =====
 
